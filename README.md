@@ -5,9 +5,9 @@ this is some initial text
 Testing to see if mermaid works
 
 ```mermaid
-flowchart TD
+flowchart TD;
 
-(Start) --> [Calculate average]
+(Start) --> [Calculate average];
 
 ```
 
