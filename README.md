@@ -5,7 +5,7 @@ this is some initial text
 Testing to see if mermaid works
 ```mermaid
   graph TD;
-      A-->B;
+      (Start) --> [Average];
       A-->C;
       B-->D;
       C-->D;
